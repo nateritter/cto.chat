@@ -169,15 +169,15 @@
                         </div>
                         <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20">
                             <!-- Testimonial card-->
-                            <div class="relative pt-64 pb-10 overflow-hidden shadow-xl rounded-2xl">
+                            <!-- <div class="relative pt-64 pb-10 overflow-hidden shadow-xl rounded-2xl">
                                 <img class="absolute inset-0 object-cover w-full h-full" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100" alt="Photo of a camper">
                                 <div class="absolute inset-0 bg-rose-500 mix-blend-multiply"></div>
                                 <div class="absolute inset-0 bg-gradient-to-t from-rose-600 via-rose-600 opacity-80">
                                 </div>
                                 <div class="relative px-8">
-                                    <!-- <div>
+                                    <div>
                                         <img class="h-12" src="https://roomsteals.com/images/logo/Logo_White.svg" alt="Room Steals">
-                                    </div> -->
+                                    </div>
                                     <blockquote class="mt-8">
                                         <div class="relative text-lg font-medium text-white md:flex-grow">
                                             <svg class="absolute top-0 left-0 w-8 h-8 transform -translate-x-3 -translate-y-2 text-rose-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
@@ -195,7 +195,7 @@
                                         </footer>
                                     </blockquote>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 
