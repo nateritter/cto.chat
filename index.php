@@ -93,7 +93,7 @@
                             <?php else : ?>
                                 <form action="#" class="mt-12 sm:max-w-lg sm:w-full sm:flex" name="notify-top">
                                     <div class="flex-1 min-w-0 py-6">
-                                        Thanks! We'll notify you as soon as the next chat is scheduled. ⇨
+                                        Thanks! We'll notify you as soon as the next chat is scheduled.
                                     </div>
                                 </form>
                             <?php endif; ?>
@@ -359,7 +359,7 @@
                             <?php else : ?>
                                 <div class="sm:text-center">
                                     <h2 class="py-5 text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
-                                        Thanks! We'll notify you as soon as the next chat is scheduled. ⇨
+                                        Thanks! We'll notify you as soon as the next chat is scheduled.
                                     </h2>
                                 </div>
                             <?php endif; ?>
