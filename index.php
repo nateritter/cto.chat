@@ -457,18 +457,18 @@
     </div>
     <script type="text/javascript">
         /** Customer.io form action */
-        // (function() {
-        //     var t = document.createElement('script'),
-        //         s = document.getElementsByTagName('script')[0];
-        //     t.async = true;
-        //     t.id = 'cio-forms-handler';
-        //     t.setAttribute('data-site-id', 'c371beeb8fb593a90435');
-        //     t.setAttribute('data-base-url', 'https://customerioforms.com');
+        (function() {
+            var t = document.createElement('script'),
+                s = document.getElementsByTagName('script')[0];
+            t.async = true;
+            t.id = 'cio-forms-handler';
+            t.setAttribute('data-site-id', '26f19cf9b363569e77e2');
+            t.setAttribute('data-base-url', 'https://customerioforms.com');
 
-        //     t.src = 'https://customerioforms.com/assets/forms.js';
+            t.src = 'https://customerioforms.com/assets/forms.js';
 
-        //     s.parentNode.insertBefore(t, s);
-        // })();
+            s.parentNode.insertBefore(t, s);
+        })();
     </script>
 </body>
 
