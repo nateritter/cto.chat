@@ -84,7 +84,7 @@
                                 <form action="#" class="mt-12 sm:max-w-lg sm:w-full sm:flex" name="notify-top">
                                     <div class="flex-1 min-w-0">
                                         <label for="hero-email" class="sr-only">Email address</label>
-                                        <!-- <input id="hero-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-gray-300 rounded-md shadow-sm focus:border-rose-500 focus:ring-rose-500" placeholder="Enter your email" name="email"> -->
+                                        <input id="hero-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-gray-300 rounded-md shadow-sm focus:border-rose-500 focus:ring-rose-500" placeholder="Enter your email" name="email">
                                     </div>
                                     <div class="mt-4 sm:mt-0 sm:ml-3">
                                         <button type="submit" class="block w-full px-5 py-3 text-base font-medium text-white border border-transparent rounded-md shadow bg-rose-500 hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2 sm:px-10">Notify me</button>
@@ -349,7 +349,7 @@
                                 <form action="#" class="mt-12 sm:mx-auto sm:max-w-lg sm:flex" name="notify-bottom">
                                     <div class="flex-1 min-w-0">
                                         <label for="cta-email" class="sr-only">Email address</label>
-                                        <!-- <input id="cta-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-transparent rounded-md shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-500" name="email" placeholder="Enter your email"> -->
+                                        <input id="cta-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-transparent rounded-md shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-500" name="email" placeholder="Enter your email">
                                     </div>
                                     <div class="mt-4 sm:mt-0 sm:ml-3">
                                         <button type="submit" class="block w-full px-5 py-3 text-base font-medium text-white bg-gray-900 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-500 sm:px-10">Notify
@@ -457,18 +457,18 @@
     </div>
     <script type="text/javascript">
         /** Customer.io form action */
-        (function() {
-            var t = document.createElement('script'),
-                s = document.getElementsByTagName('script')[0];
-            t.async = true;
-            t.id = 'cio-forms-handler';
-            t.setAttribute('data-site-id', 'c371beeb8fb593a90435');
-            t.setAttribute('data-base-url', 'https://customerioforms.com');
+        // (function() {
+        //     var t = document.createElement('script'),
+        //         s = document.getElementsByTagName('script')[0];
+        //     t.async = true;
+        //     t.id = 'cio-forms-handler';
+        //     t.setAttribute('data-site-id', 'c371beeb8fb593a90435');
+        //     t.setAttribute('data-base-url', 'https://customerioforms.com');
 
-            t.src = 'https://customerioforms.com/assets/forms.js';
+        //     t.src = 'https://customerioforms.com/assets/forms.js';
 
-            s.parentNode.insertBefore(t, s);
-        })();
+        //     s.parentNode.insertBefore(t, s);
+        // })();
     </script>
 </body>
 
