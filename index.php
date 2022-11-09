@@ -17,20 +17,22 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://whatabouthotels.com/">
+    <meta property="og:url" content="https://cto.chat/">
     <meta property="og:title" content="Tech talks for non-tech startup founders">
     <meta property="og:description" content="For non-tech startup founders with tech teams. We'll chat about how to manage them better, productivity, expectations, communication, and so much more.">
-    <meta property="og:image" content="https://whatabouthotels.com/images/hotel-pool-view.jpg">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80">
+    <!-- <meta property="og:image" content="https://images.unsplash.com/photo-1555421689-3f034debb7a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"> -->
 
     <!-- Open Graph / Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@nateritter">
-    <meta property="twitter:domain" content="whatabouthotels.com">
-    <meta property="twitter:url" content="https://whatabouthotels.com">
+    <meta property="twitter:domain" content="cto.chat">
+    <meta property="twitter:url" content="https://cto.chat">
     <meta name="twitter:title" content="CTO.chat | Tech talks for non-tech startup founders">
     <meta name="twitter:description" content="For non-tech startup founders with tech teams. We'll chat about how to manage them better, productivity, expectations, communication, and so much more.">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="https://whatabouthotels.com/images/hotel-pool-view.jpg">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80">
+    <!-- <meta property="twitter:image" content="https://images.unsplash.com/photo-1555421689-3f034debb7a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"> -->
 
 </head>
 
