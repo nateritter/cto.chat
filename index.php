@@ -172,7 +172,8 @@
                         <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20">
                             <!-- Testimonial card-->
                             <div class="relative pt-64 pb-10 overflow-hidden shadow-xl rounded-2xl">
-                                <img class="absolute inset-0 object-cover w-full h-full" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100" alt="Photo of a camper">
+                                <!-- <img class="absolute inset-0 object-cover w-full h-full" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100" alt="Photo of a camper"> -->
+                                <img class="absolute inset-0 object-cover w-full h-full" src="https://media-exp1.licdn.com/dms/image/C4E03AQHQpPfhpbK__Q/profile-displayphoto-shrink_800_800/0/1613870647988?e=1674086400&v=beta&t=uqMlHt3bHQYPLb9FsxdTLUtzDXF9i456JxTuS_XqG7s" alt="Alissa McDonald - Co-Founder and CEO, PopPD">
                                 <div class="absolute inset-0 bg-rose-500 mix-blend-multiply"></div>
                                 <div class="absolute inset-0 bg-gradient-to-t from-rose-600 via-rose-600 opacity-80">
                                 </div>
@@ -208,7 +209,7 @@
 
                                         <footer class="mt-4">
                                             <p class="text-base font-semibold text-rose-200">
-                                                Alissa McDonald, Co-Founder of PopPD
+                                                Alissa McDonald, Co-Founder and CEO, PopPD | ⚡️ Techstars '22
                                             </p>
                                         </footer>
                                     </blockquote>
