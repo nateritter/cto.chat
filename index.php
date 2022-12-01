@@ -514,15 +514,6 @@
             s.parentNode.insertBefore(t, s);
         })();
     </script>
-    <script>
-        var o_options = {
-            domain: 'ctochat.outseta.com',
-            load: 'chat'
-        };
-    </script>
-    <script src="https://cdn.outseta.com/outseta.min.js"
-            data-options="o_options">
-    </script>
 </body>
 
 </html>
