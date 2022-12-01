@@ -514,6 +514,8 @@
             s.parentNode.insertBefore(t, s);
         })();
     </script>
+    <!-- Crisp.chat -->
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="53e16d20-1804-4895-95bc-bb3e9d5e9228";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </body>
 
 </html>
